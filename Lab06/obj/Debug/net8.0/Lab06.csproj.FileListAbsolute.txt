@@ -1,0 +1,12 @@
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\bin\Debug\net8.0\Lab06.deps.json
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\bin\Debug\net8.0\Lab06.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\bin\Debug\net8.0\Lab06.pdb
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\Lab06.AssemblyInfo.cs
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\Lab06.sourcelink.json
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\Lab06.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\refint\Lab06.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\Lab06.pdb
+C:\Users\Britton\Desktop\Programming 1415\lab-6-doubly-linked-list-Britton97\Lab06\obj\Debug\net8.0\ref\Lab06.dll
