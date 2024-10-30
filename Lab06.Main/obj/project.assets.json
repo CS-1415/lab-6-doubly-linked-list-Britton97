@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Lab06/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Lab06.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab06.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Lab06/1.0.0": {
+      "type": "project",
+      "path": "../Lab06/Lab06.csproj",
+      "msbuildProject": "../Lab06/Lab06.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Lab06 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Britton\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Britton\\Desktop\\Programming 1415\\lab-6-doubly-linked-list-Britton97\\Lab06\\Lab06.csproj": {
+              "projectPath": "C:\\Users\\Britton\\Desktop\\Programming 1415\\lab-6-doubly-linked-list-Britton97\\Lab06\\Lab06.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
